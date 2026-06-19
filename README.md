@@ -1,6 +1,6 @@
 # Description
 
-This is the kernel that powers DevOS this is still in development I recomend NOT to use this kernel on aactual hardware use VirtualBox or QEMU to run this because this kernel is still Unix-like 
+This is the kernel that powers CodeOS this is still in development I recomend NOT to use this kernel on aactual hardware use VirtualBox or QEMU to run this because this kernel is still Unix-like 
 
 # Is it Linux-Based
 
@@ -8,7 +8,7 @@ No this kernel does not use anything from linux or take anything this kernel sta
 
 # Story
 
-I was just on June 2 2026 thinking about DevOS when an idea got my mind "what if I make a kernel that is for DevOS?" well I did it here is the result
+I was just on June 2 2026 thinking about CodeOS when an idea got my mind "what if I make a kernel that is for CodeOS?" well I did it here is the result
 
 # Notes
 
